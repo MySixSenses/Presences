@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.0",
+  "author": {
+    "name": "PandaNinjas",
+    "id": "455128749071925248"
+  },
+  "service": "Royal Society of Chemistry",
+  "description": {
+    "en": "The Royal Society of Chemistry is a learned society in the United Kingdom with the goal of 'advancing the chemical sciences.' It was formed in 1980 from the amalgamation of the Chemical Society, the Royal Institute of Chemistry, the Faraday Society, and the Society for Analytical Chemistry with a new Royal Charter and the dual role of learned society and professional body. At its inception, the Society had a combined membership of 34,000 in the UK and a further 8,000 abroad. The headquarters of the Society are at Burlington House, Piccadilly, London. It also has offices in Thomas Graham House in Cambridge where RSC Publishing is based. The Society has offices in the United States at the University City Science Center, Philadelphia, in both Beijing and Shanghai, China and Bangalore, India."
+  },
+  "url": "www.rsc.org",
+  "version": "1.0.0",
+  "logo": "https://i.imgur.com/gk0DBr0",
+  "thumbnail": "https://i.imgur.com/y4joaEJ",
+  "color": "#78d9ea",
+  "tags": ["royal-society-of-chemistry", "chemistry"],
+  "category": "other"
+  
+}
